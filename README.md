@@ -1,5 +1,5 @@
-<div align="left">
-  <img height="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzBwNnNobzhhZHhncGJ2NHNheWRmcGVweTg3aG9heHVjdnB4OW9vNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+<div align="center">
+  <img height="600" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzBwNnNobzhhZHhncGJ2NHNheWRmcGVweTg3aG9heHVjdnB4OW9vNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
 ###
@@ -93,28 +93,6 @@
   <img src="https://streak-stats.demolab.com?user=rohitsgowda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsgowda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsgowda&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">This Tiny Monsters 👿 Ruined My Contribution.</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitsgowda/rohitsgowda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitsgowda/rohitsgowda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohitsgowda/rohitsgowda/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="left" height="700" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnVsa3Zzc2VteXdxMWttMHhhaW0wbmFxYnpwMHJ5djU4b3FsNHJyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25UxpWoNBu8nOtURm9/giphy.gif"  />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=It's%20Enough!%20Stop%20Stalking&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
